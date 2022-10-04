@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RamezHamdiSaeed who is a Flutter Developer (cross front-end and back-end developer)
 - 👀 I’m interested in Flutter Development for cross platforms (Mobile, Web & Desktop Devices) and Back-End development 
-- 🌱 I’m currently learning ...Back-End development using node.js, express.js, MongoDB & Mongoos.
+- 🌱 I’m currently learning ...DevOps CI/CD and improving my UI/UX design skills.
 - 💞️ I’m looking to collaborate on ... SoftWare Engineering.
 - 📫 How to reach me ...
 -   LinkedIn: https://www.linkedin.com/in/ramez-hamdi
